@@ -1,2 +1,2 @@
 # ResumeAI
-An agentic LLM based resume screener
+A multi agent LLM based resume screener
