@@ -1,0 +1,8 @@
+[
+	{
+        "model": "gemini-pro",
+        "api_key": "Add Gemini Key Here",
+		"api_type": "google"
+	}
+]
+
